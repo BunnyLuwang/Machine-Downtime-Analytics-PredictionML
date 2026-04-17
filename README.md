@@ -48,16 +48,10 @@ teams to act proactively rather than reactively.
 ---
 
 ## Model Building & Evaluation
-
-Five ML algorithms were trained and evaluated:
-
+Among 5 models (K-Nearest Neighbors, Decision Tree, Random Forest, Naïve Bayes, SVM), **Naive Bayes** wins overall.
 | Model | Accuracy |
-|---|---|
-| K-Nearest Neighbors | - |
-| Decision Tree | - |
-| Random Forest | - |
 | **Naïve Bayes** | **98.6%** |
-| SVM | - |
+
 
 ### Best Model — Naïve Bayes
 
