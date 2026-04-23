@@ -1,7 +1,7 @@
 # Machine Downtime Analytics & Predictive Maintenance
 
 > An end-to-end data science project that predicts machine failure using
-> sensor data — from raw data cleaning and SQL/Python EDA to deployed
+> sensor data - from raw data cleaning and SQL/Python EDA to deployed
 > real-time inference, post-deployment monitoring, and an interactive
 > Power BI dashboard.
 
@@ -11,7 +11,7 @@
 
 Unplanned machine downtime is one of the most costly problems in
 manufacturing. A 50.60% failure rate across machines signals a
-**systemic maintenance issue** — not isolated incidents. This project
+**systemic maintenance issue** - not isolated incidents. This project
 builds a predictive maintenance system that flags high-risk machines
 **before** failure occurs.
 
@@ -105,13 +105,8 @@ builds a predictive maintenance system that flags high-risk machines
 
 Five ML algorithms were trained and evaluated:
 
-| Model | Accuracy |
-|---|---|
-| K-Nearest Neighbors | - |
-| Decision Tree | - |
-| Random Forest | - |
-| **Naïve Bayes (Best)** | **98.6%** |
-| SVM | - |
+K-Nearest Neighbors, Decision Tree, Random Forest, SVM &
+**Naïve Bayes (Best)** with accuracy **98.6%**
 
 ### Best Model — Naïve Bayes
 
